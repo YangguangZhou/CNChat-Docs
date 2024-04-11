@@ -63,7 +63,7 @@ export default defineConfig({
       pattern: 'https://github.com/YangguangZhou/RawChat-Docs/blob/main/docs/:path',
       text: '在 GitHub 中编辑本页'
     },
-    logo: 'https://cdn.jerryz.com.cn/YangguangZhou/RawChat-Docs@main/docs/public/rawchat.jpg',
+    logo: 'https://cdn.jerryz.com.cn/gh/YangguangZhou/RawChat-Docs@main/docs/public/rawchat.jpg',
   }
 })
 

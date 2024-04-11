@@ -7,7 +7,7 @@ hero:
   text: ChatGPT官网镜像站
   tagline: ""
   image:
-    src: https://cdn.jerryz.com.cn/YangguangZhou/RawChat-Docs@main/docs/public/rawchat.jpg
+    src: https://cdn.jerryz.com.cn/gh/YangguangZhou/RawChat-Docs@main/docs/public/rawchat.jpg
     alt: Monet-All
   actions:
     - theme: brand

@@ -14,4 +14,4 @@ RawChat的初衷是降低ChatGPT官网的使用门槛，RawChat支持的功能�
 10. 相比于其他国内版的网站，RawChat支持的功能**更全面，使用体验更好**。​
 11. 为保证账号安全，**禁止Creat GPTs**，这样是为了防止违规操作导致的封号。
 
-![演示](https://cdn.jerryz.com.cn/YangguangZhou/RawChat-Docs@main/docs/public/1.png)
+![演示](https://cdn.jerryz.com.cn/gh/YangguangZhou/RawChat-Docs@main/docs/public/1.png)
