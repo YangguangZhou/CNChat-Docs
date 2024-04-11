@@ -8,7 +8,7 @@ hero:
   tagline: ""
   image:
     src: https://cdn.jerryz.com.cn/gh/YangguangZhou/RawChat-Docs@main/docs/public/rawchat.jpg
-    alt: Monet-All
+    alt: RawChat
   actions:
     - theme: brand
       text: 开始了解
