@@ -57,7 +57,7 @@ export default defineConfig({
     },
     footer: {
       message: 'Released under the Mozilla Public License.',
-      copyright: 'Copyright © 2024 Jerry Zhou(https://jerryz.com.cn)'
+      copyright: 'Copyright © 2024 Jerry Zhou(https://jerryz.com.cn) and RawChat Team'
     },
     editLink: {
       pattern: 'https://github.com/YangguangZhou/RawChat-Docs/blob/main/docs/:path',
@@ -71,6 +71,7 @@ function nav(): DefaultTheme.NavItem[] {
   return [
     { text: '使用教程', link: '/guide/introduction' },
     { text: '进阶教程', link: '/guide/introduction' },
+    { text: '开始使用', link: 'https://cn.ai0.cn/' },
     { text: 'Github', link: 'https://github.com/YangguangZhou/RawChat-Docs' }
   ]
 }
@@ -84,6 +85,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         { text: '使用教程', link: '/guide/guide' },
         { text: '技术原理', link: '/guide/principle' },
         { text: '常见问题', link: '/guide/faq' },
+        { text: '关于', link: '/guide/about' },
       ]
     }
   ]
@@ -94,10 +96,8 @@ function sidebarAdvance(): DefaultTheme.SidebarItem[] {
     {
       text: '进阶教程',
       items: [
-        { text: '下载', link: '/guide/download' },
-        { text: '安装', link: '/guide/install' },
-        { text: '更新日志', link: '/guide/changelog' },
-        { text: '其它应用及模块', link: '/guide/apks' },
+        { text: '身份提示词', link: '/advance/prompt' },
+        { text: 'DALL·E 3', link: '/advance/dalle3' }
       ]
     }
   ]

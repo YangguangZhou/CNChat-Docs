@@ -18,11 +18,16 @@ hero:
       link: https://cn.ai0.cn/
 
 features:
-  - title: 稳定
-    details: 莫奈主题是 Android 12 的 Material You 新特性，它会根据壁纸来生成系统主题色，软件也会根据系统主题色来变化。
-  - title: 精准
-    details: RawChat 支持使用 Magisk 和 KernelSU 进行安装。（需要在 Android 12 或更高版本的系统上才能运行）
-  - title: 简洁
-    details: RawChat 可通过音量键选择是否安装对应应用的取色模块。
-  - title: 易用
-    details: RawChat 是 MIT license 许可下的开源项目。
+  - icon: 🛡️
+    title: 稳定
+    details: 从2023年3月份就开始运营了，比大部分的网站运营时间还要久，还有api备用站点，可以做到官网不倒，RawChat不倒。
+  - icon: 🤖
+    title: 精准
+    details: RawChat 支持GPTs、DALL·E-3模型、所有Plugin插件功能、全态模型：上传PDF、图片进行分析、联网对话等功能，而无需担心封号风险。​
+  - icon: ✨
+    title: 简洁
+    details: 使用体验与官网完全一致，可在第一时间体验到官网所有新功能。​相比于其他国内版的网站，RawChat支持的功能更全面，使用体验更好。
+  - icon: 🚀
+    title: 易用
+    details: 无需科学上网，内置多个Plus账号，不用担心次数不够，做到了真正的打开即用。
+---

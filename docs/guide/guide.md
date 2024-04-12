@@ -2,12 +2,13 @@
 
 ## 注册与登录​
 
-:warning:注意：​
+::: warning ⚠️注意：​
 - 为防止恶意注册，仅支持[QQ邮箱](https://mail.qq.com)注册。​
 - 未收到验证码邮件请检查邮箱是否输入有误、以及垃圾信箱。​
 - RawChat账号与官网账号**相互独立**，数据不互通。​
 - 为保证账号安全性，目前没有开放密码修改入口，​
 要改密码请将需要修改的密码发送邮件到 RawChat@qq.com。
+:::
 
 ​看到下图界面则代表登录成功：​
 ![登录成功](https://cdn.jerryz.com.cn/gh/YangguangZhou/RawChat-Docs@main/docs/public/2.png)
@@ -58,4 +59,5 @@ RawChat做了些技术上的处理，把您所有的对话都保存到一起了�
     3. 通过回答，可以看到GPT是可以识别出前面的对话内容的，并且继续前面的对话（因为复制的内容是有You：ChatGPT：的前缀的，所以GPT可以正确的识别出提问和回答）。​
     ​![回答](https://cdn.jerryz.com.cn/gh/YangguangZhou/RawChat-Docs@main/docs/public/8.png)
 ​
+
 当您理解并掌握切换账号的原因和机制，就可以非常丝滑的使用RawChat了
