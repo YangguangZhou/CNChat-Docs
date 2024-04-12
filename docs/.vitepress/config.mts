@@ -38,7 +38,7 @@ export default defineConfig({
     returnToTopLabel: '回到顶部',
     sidebar: {
       '/guide/': sidebarGuide(),
-      '/advance': sidebarAdvance()
+      '/advance/': sidebarAdvance()
     },
     lastUpdatedText: '最后更新',
     socialLinks: [
@@ -70,7 +70,7 @@ export default defineConfig({
 function nav(): DefaultTheme.NavItem[] {
   return [
     { text: '使用教程', link: '/guide/introduction' },
-    { text: '进阶教程', link: '/guide/introduction' },
+    { text: '进阶教程', link: '/advance/prompt' },
     { text: '开始使用', link: 'https://cn.ai0.cn/' },
     { text: 'Github', link: 'https://github.com/YangguangZhou/RawChat-Docs' }
   ]
