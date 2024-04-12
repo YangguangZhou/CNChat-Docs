@@ -7,7 +7,7 @@ const pkg = require('vitepress/package.json')
 export default defineConfig({
   title: 'RawChat',
   lang: 'zh-CN',
-  description: 'ChatGPT官网镜像站',
+  description: 'RawChat-ChatGPT官网镜像站',
   cleanUrls: true,
   // locales: locales.locales,
   // srcDir: './docs',
