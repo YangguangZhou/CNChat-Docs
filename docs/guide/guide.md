@@ -44,7 +44,7 @@
 ![跨车验证](https://cdn.jerryz.com.cn/gh/YangguangZhou/RawChat-Docs@main/docs/public/5.png)
 - 点击重置按钮即可完成跨车验证。
 
-::: tip 📌解释
+::: tip 📌 解释
 RawChat做了些技术上的处理，把您所有的对话都保存到一起了，当要查阅某个对话记录时，就可以很方便的找到对应的对话。
 如果不保存到一起，就需要您记住在哪个账号进行的会话，显然这是十分麻烦的事情。
 :::
