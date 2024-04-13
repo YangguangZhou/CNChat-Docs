@@ -16,11 +16,14 @@ hero:
     - theme: alt
       text: 开始使用
       link: https://cn.ai0.cn/
+    - theme: alt
+      text: 进阶教程
+      link: /advance/prompt
 
 features:
   - icon: 🛡️
     title: 稳定
-    details: 从2023年3月份就开始运营了，比大部分的网站运营时间还要久，还有api备用站点，可以做到官网不倒，RawChat不倒。
+    details: 从2023年3月份开始运营，比大部分的网站运营时间还要久，还有api备用站点，可以做到官网不倒，RawChat不倒。
   - icon: 🤖
     title: 精准
     details: RawChat 支持GPTs、DALL·E-3模型、所有Plugin插件功能、全态模型：上传PDF、图片进行分析、联网对话等功能，而无需担心封号风险。
