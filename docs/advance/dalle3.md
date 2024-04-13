@@ -1,3 +1,6 @@
+---
+pageClass: bancopy
+---
 # DALL·E-3
 
 ::: tip DALL·E-3

@@ -1,3 +1,6 @@
+---
+pageClass: bancopy
+---
 # 关于
 
 ::: danger 声明

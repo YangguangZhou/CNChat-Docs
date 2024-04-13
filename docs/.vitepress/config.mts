@@ -20,7 +20,7 @@ export default defineConfig({
     [
       'script',
       { async: '', src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857', crossorigin: 'anonymous' } 
-    ]
+    ],
     // <script async src="https://umami.jerryz.com.cn/script.js" data-website-id="4da319ee-96d6-4af0-8854-7db1b19266da"></script>
     // <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857" crossorigin="anonymous"></script>
   ],
@@ -62,7 +62,6 @@ function nav(): DefaultTheme.NavItem[] {
     { text: '使用教程', link: '/guide/introduction' },
     { text: '进阶教程', link: '/advance/prompt' },
     { text: '开始使用', link: 'https://cn.ai0.cn/' },
-    { text: 'Github', link: 'https://github.com/YangguangZhou/RawChat-Docs' }
   ]
 }
 

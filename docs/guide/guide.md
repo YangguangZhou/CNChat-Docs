@@ -1,3 +1,6 @@
+---
+pageClass: bancopy
+---
 # 使用教程
 
 ## 注册与登录

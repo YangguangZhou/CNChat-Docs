@@ -1,3 +1,6 @@
+---
+pageClass: bancopy
+---
 # 介绍
 
 RawChat的初衷是降低ChatGPT官网的使用门槛，RawChat支持的功能，包括但不限于如下：
