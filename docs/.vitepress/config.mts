@@ -9,8 +9,9 @@ export default defineConfig({
   lang: 'zh-CN',
   description: 'CNChat-ChatGPT官网镜像站',
   cleanUrls: true,
-  // locales: locales.locales,
-  // srcDir: './docs',
+  sitemap: {
+    hostname: 'https://cn.jerryz.com.cn/'
+  },
   lastUpdated: true,
   head: [
     // [
@@ -49,7 +50,7 @@ export default defineConfig({
       message: 'Released under the Mozilla Public License.',
       copyright: 'Copyright © 2024 Jerry Zhou(https://jerryz.com.cn)'
     },
-    logo: 'https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/CNChat.png',
+    logo: 'https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/cnchat.png',
   }
 })
 

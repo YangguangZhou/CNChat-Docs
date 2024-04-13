@@ -7,7 +7,7 @@ hero:
   text: ChatGPT官网镜像站
   tagline: ""
   image:
-    src: https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/CNChat.png
+    src: https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/cnchat.png
     alt: CNChat
   actions:
     - theme: brand
