@@ -1,2 +1,2 @@
-# RawChat Docs
- RawChat 使用文档
+# [CNChat Docs](https://cn.jerryz.com.cn/)
+ CNChat 使用文档

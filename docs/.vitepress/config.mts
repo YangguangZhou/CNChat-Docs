@@ -5,9 +5,9 @@ const require = createRequire(import.meta.url)
 const pkg = require('vitepress/package.json')
 
 export default defineConfig({
-  title: 'RawChat',
+  title: 'CNChat',
   lang: 'zh-CN',
-  description: 'RawChat-ChatGPT官网镜像站',
+  description: 'CNChat-ChatGPT官网镜像站',
   cleanUrls: true,
   // locales: locales.locales,
   // srcDir: './docs',
@@ -47,13 +47,9 @@ export default defineConfig({
     },
     footer: {
       message: 'Released under the Mozilla Public License.',
-      copyright: 'Copyright © 2024 Jerry Zhou(https://jerryz.com.cn) and RawChat Team'
+      copyright: 'Copyright © 2024 Jerry Zhou(https://jerryz.com.cn)'
     },
-    editLink: {
-      pattern: 'https://github.com/YangguangZhou/RawChat-Docs/blob/main/docs/:path',
-      text: '在 GitHub 中编辑本页'
-    },
-    logo: 'https://cdn.jerryz.com.cn/gh/YangguangZhou/RawChat-Docs@main/docs/public/rawchat.png',
+    logo: 'https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/CNChat.png',
   }
 })
 
