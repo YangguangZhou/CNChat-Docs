@@ -14,10 +14,10 @@ export default defineConfig({
   },
   lastUpdated: true,
   head: [
-    // [
-    //   'script',
-    //   { async: '', async: '', 'data-website-id': '4da319ee-96d6-4af0-8854-7db1b19266da', src: 'https://umami.jerryz.com.cn/script.js' }
-    // ],
+    [
+      'script',
+      { async: '', async: '', 'data-website-id': 'bf59ecd2-f3d5-4dee-9301-1b74b56b8964', src: 'https://umami.jerryz.com.cn/script.js' }
+    ],
     [
       'script',
       { async: '', src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2597042766299857', crossorigin: 'anonymous' } 
