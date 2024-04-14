@@ -3,6 +3,10 @@ pageClass: bancopy
 ---
 # 介绍
 
+## 简介
+
+网址：https://cn.ai0.cn/
+
 CNChat的初衷是降低ChatGPT官网的使用门槛，CNChat支持的功能，包括但不限于如下：
 
 1. 使用体验与官网完全一致，可在第一时间体验到官网所有新功能。
@@ -18,3 +22,14 @@ CNChat的初衷是降低ChatGPT官网的使用门槛，CNChat支持的功能，�
 11. 为保证账号安全，**禁止Creat GPTs**，这样是为了防止违规操作导致的封号。
 
 ![演示](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/1.png)
+
+## 定价
+
+**🔥现在开通4.0会员可享85折优惠，详情可咨询QQ `2098412009` **
+
+🤖4.0会员价格
+日卡 3
+周卡 29
+月卡 49
+季卡 129
+年卡 399
