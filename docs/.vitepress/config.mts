@@ -71,6 +71,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         { text: '使用教程', link: '/guide/guide' },
         { text: '保存会话', link: '/guide/save' },
         { text: '技术原理', link: '/guide/principle' },
+        { text: '下载应用', link: '/guide/download' },
         { text: '常见问题', link: '/guide/faq' },
         { text: '关于', link: '/guide/about' },
       ]
