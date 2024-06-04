@@ -1,10 +1,10 @@
 ---
 layout: home
-title: ChatGPT官网镜像站
+title: ChatGPT官网共享镜像站
 
 hero:
   name: CNChat
-  text: ChatGPT官网镜像站
+  text: ChatGPT官网共享镜像站
   tagline: ""
   image:
     src: https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/cnchat.png
