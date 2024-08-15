@@ -12,6 +12,10 @@ pageClass: bancopy
 - 为保证账号安全性，目前没有开放密码修改入口，
 :::
 
+::: info ℹ️更新：
+CNChat 现已支持 Claude 共享镜像站功能，面向月会员及以上用户开放，功能和 Claude 官网相同。
+:::
+
 看到下图界面则代表登录成功：
 ![登录成功](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/2.png)
 
