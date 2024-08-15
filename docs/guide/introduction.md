@@ -3,6 +3,10 @@ pageClass: bancopy
 ---
 # 介绍
 
+::: info ℹ️更新：
+CNChat 现已支持 Claude 共享镜像站功能，面向月会员及以上用户开放，功能和 Claude 官网相同。
+:::
+
 ## 简介
 
 网址：https://cn.ai0.cn/
