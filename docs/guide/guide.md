@@ -27,7 +27,7 @@ pageClass: bancopy
     1. <span style="color: #da9c06;">Plus账号</span>4.0的限制是每3小时40次（官网的限制）
     2. <span style="color: #355adb;">Team账号</span>4.0的限制是每3小时100次（官网的限制）
 - 在这里可以看到当前的账号列表、编号、账号类型丨状态
-- 账号类型有两种：<span style="color: #da9c06;">3.5</span>和<span style="color: #ae69ff;">Plus</span>，前者是GPT 4.0，后者则是GPT 3.5。
+- 账号类型有两种：<span style="color: #da9c06;">Plus</span>和<span style="color: #ae69ff;">Mini</span>，前者是Plus账号，可以使用所有模型，后者则是普通账号，只能使用GPT 4o和GPT 4o mini。
     1. 状态为<span style="background-color: rgba(183, 237, 177, 0.8);">空闲丨推荐</span>，代表该账号当前次数充足，可放心使用。
     2. 状态为<span style="background-color: rgba(254, 212, 164, 0.8);">繁忙丨可用</span>，代表该账号该时段已消耗了部分次数。
     3. 状态为<span style="background-color: rgba(251, 191, 188, 0.8);">PLUS停运丨将于xx秒恢复</span>，代表该账号该时段已无可用Plus次数，并会告知在多久后能用。
