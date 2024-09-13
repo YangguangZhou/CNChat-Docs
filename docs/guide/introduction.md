@@ -4,7 +4,8 @@ pageClass: bancopy
 # 介绍
 
 ::: info ℹ️更新：
-CNChat 现已支持 Claude 共享镜像站功能，面向月会员及以上用户开放，功能和 Claude 官网相同。
+CNChat 现已支持 Claude 共享镜像站功能，面向**月会员及以上用户**开放，功能和 Claude 官网相同。
+CNChat 现已支持 o1-preview 和 o1-mini 模型，欢迎使用。
 :::
 
 ## 简介
