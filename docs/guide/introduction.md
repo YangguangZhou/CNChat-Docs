@@ -6,6 +6,7 @@ pageClass: bancopy
 ::: info ℹ️更新：
 CNChat 现已支持 Claude 共享镜像站功能，面向**月会员及以上用户**开放，功能和 Claude 官网相同。
 CNChat 现已支持 o1-preview 和 o1-mini 模型，欢迎使用。
+如果您有任何问题，欢迎通过微信<span style="color: #09bb07;">jerryz0506</span>联系我们
 :::
 
 ## 简介
