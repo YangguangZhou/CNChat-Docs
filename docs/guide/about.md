@@ -48,7 +48,3 @@ CNChat保留最终解释权。
 本文档由 [Jerry Zhou](https://jerryz.com.cn) 编写，遵循 [Mozilla Public License](https://www.mozilla.org/en-US/MPL/)。
 
 <VPTeamMembers size="small" :members="members" />
-
-# 联系我们
-
-如果您有任何问题，欢迎通过微信<span style="color: #09bb07;">jerryz0506</span>联系我们
