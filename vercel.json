@@ -3,5 +3,5 @@
     "devCommand": "yarn install",
     "redirects": [
         { "source": "/qq", "destination": "https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/1000057670.4uaxiznuy6.jpg" }
-    ],
+    ]
 }
