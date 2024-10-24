@@ -59,6 +59,7 @@ function nav(): DefaultTheme.NavItem[] {
     { text: '使用教程', link: '/guide/introduction' },
     { text: '进阶教程', link: '/advance/prompt' },
     { text: '开始使用', link: 'https://cn.ai0.cn/' },
+    { text: '联系我们', link: '/guide/contact' },
   ]
 }
 
@@ -73,6 +74,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
         { text: '技术原理', link: '/guide/principle' },
         { text: '下载应用', link: '/guide/download' },
         { text: '常见问题', link: '/guide/faq' },
+        { text: '联系我们', link: '/guide/contact' },
         { text: '关于', link: '/guide/about' },
       ]
     }
