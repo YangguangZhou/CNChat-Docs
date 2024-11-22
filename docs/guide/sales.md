@@ -2,7 +2,7 @@
 import { ref, onMounted } from 'vue';
 
 // 活动时间配置
-const targetTime = new Date('2024-01-01T00:00:00+08:00').getTime();
+const targetTime = new Date('2025-01-01T00:00:00+08:00').getTime();
 const endTime = new Date('2025-01-02T00:00:00+08:00').getTime();
 
 // 无活动
