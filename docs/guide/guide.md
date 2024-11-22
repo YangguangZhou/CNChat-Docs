@@ -64,3 +64,41 @@ CNChat做了些技术上的处理，把您所有的对话都保存到一起了�
 
 当您理解并掌握切换账号的原因和机制，就可以非常丝滑的使用CNChat了
 
+## 联网功能​
+
+联网功能是一个非常强大的功能，可以帮助您快速查询信息，解决问题。​
+
+- 输入`/`可快速调用联网功能。​
+![联网](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/22.png)
+- 在对话中带`联网查询`，`帮我搜索`等关键词，也可以联网功能，值得一提的是，4o模型更新后会根据语境判断是否需要联网，不同于之前需要关键词才能触发。​
+- 当触发联网功能后，显示正在搜索"xxx"，说明正在查询中，请耐心等待。​
+![联网中](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/23.png)
+
+![联网结果](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/24.png)
+
+## DALL·E-3画图
+
+DALL·E-3是OpenAI开发的AI图像生成模型,可根据文字描述生成高质量图像。它支持中英文提示词,能创建照片级写实图像、艺术插画等多种风格作品。
+
+1. 方法一：输入`/`可快速调用DALL·E-3画图功能。​
+![画图](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/25.png)
+
+2. 方法二：点击`探索GPT`，找到并点击`DALL·E`，如下图:
+![打开DALL·E](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/26.png)
+![画图示例](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/27.png)
+
+更多高级画图功能介绍请见[进阶教程](https://cn.jerryz.com.cn/advance/dalle3)
+​
+## 高级语音模式
+![语音按钮](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/28.png)
+点击上图按钮，可以与GPT进行语音对话并看见画面(通过屏幕或摄像头)，让他帮你实时处理问题。​
+![语音聊天](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/29.png)
+​
+## 设置界面语言​
+点击右上角可以设置界面语言，自动检测环境的默认语言，如有需求可以更改。​
+![设置语言](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/30.png)
+​
+## 键盘快捷操作
+点击右下角可以进入帮助中心，深入了解ChatGPT。​
+![帮助中心](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/31.png)
+​
