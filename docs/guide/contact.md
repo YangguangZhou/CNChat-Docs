@@ -4,7 +4,7 @@
 
 ## QQ群（推荐）
 
-![QQ群二维码](https://cn.jerryz.com.cn/qq)
+![QQ群二维码](https://cdn.jerryz.com.cn/gh/YangguangZhou/picx-images-hosting@master/1000057670.4uaxiznuy6.jpg)
 
 QQ群号：<span style="color: #12b7f5;">176773004</span>
 

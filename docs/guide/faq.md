@@ -31,12 +31,14 @@ A6：赚，但赚都是辛苦钱，因为我们后台的每个账号都是实打
 
 > Q7：你们这个开通会员后有使用次数限制吗？
 
-A7：没有做限制，目的是为了用户体验能更高，尽量靠堆Plus号来满足用户的使用需求，而不是靠限制用户使用。
+A7：由于账号资源有限，我们对每个账号进行了一定的使用限制，详情请参见[模型介绍及使用限制](https://cn.jerryz.com.cn/guide/models)。
 
 > Q8：为什么我都开了会员了，还提示没有次数了，要等到xx点才能恢复
 
-A8：因为您当前所处的Plus账号没次数，需要切换账号使用，请您看文档上面的换车功能介绍。
+A8：因为您当前所处的Plus账号没次数，需要切换账号使用，请您看[换车功能介绍](https://cn.jerryz.com.cn/guide/guide#换车)。
 
 > Q9：使用时出现拼图验证码该怎么解决
 
 由于官网问题，部分浏览器使用时会出现拼图验证码影响使用体验，例如360浏览器、edge浏览器等。解决办法是使用[谷歌浏览器](https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/%E5%85%B6%E5%AE%83%E6%96%87%E4%BB%B6/chrome.exe)或[火狐浏览器](https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/%E5%85%B6%E5%AE%83%E6%96%87%E4%BB%B6/firefox.exe)，这两个浏览器大部分情况下都不会出现验证码。
+
+更多使用上的问题请[联系我们](https://cn.jerryz.com.cn/guide/contact)，我们会尽快解决您的问题。

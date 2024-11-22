@@ -4,11 +4,11 @@ pageClass: bancopy
 # 介绍
 
 ::: info ℹ️更新：
-CNChat 现已支持 Claude 共享镜像站功能，面向**月会员及以上用户**开放，功能和 Claude 官网相同。
+CNChat 现已支持 Claude 共享镜像站功能，功能和 Claude 官网相同。
 
 CNChat 现已支持 canvas 和高级语音对话，欢迎使用。
 
-如果您有任何问题，欢迎通过微信<span style="color: #09bb07;">jerryz0506</span>联系我们
+如果您有任何问题，请[联系我们](https://cn.jerryz.com.cn/guide/contact)，我们会尽快解决您的问题。
 :::
 
 ## 简介
@@ -17,9 +17,9 @@ CNChat 现已支持 canvas 和高级语音对话，欢迎使用。
 
 CNChat的初衷是降低ChatGPT和Claude官网的使用门槛，CNChat支持的功能，包括但不限于如下：
 
-1. 使用体验与官网完全一致，可在第一时间体验到官网所有新功能。支持最新的 GPT-4o、GPT-4o-mini、Claude-3-5-Sonnet 模型。
+1. 使用体验与官网完全一致，可在第一时间体验到官网所有新功能。支持最新的 GPT-4o、GPT-4o-mini、Claude-3-5-Sonnet、o1-preview 等模型。
 2. 无需科学上网。
-3. 内置多个 OpenAI Plus 和 Claude Prp账号，不用担心次数不够。
+3. 内置多个 OpenAI Plus 和 Claude Pro账号，不用担心次数不够。
 4. 支持所有GPTs功能，DALL·E-3模型等。
 5. 支持Artifact插件功能。
 6. 支持多模态模型，可以上传PDF、图片进行分析，也可以语音聊天。
@@ -35,6 +35,8 @@ CNChat的初衷是降低ChatGPT和Claude官网的使用门槛，CNChat支持的�
 
 🤖会员价格：
 
+### GPT会员
+
 日卡 3
 
 周卡 29
@@ -44,3 +46,9 @@ CNChat的初衷是降低ChatGPT和Claude官网的使用门槛，CNChat支持的�
 季卡 129
 
 年卡 399
+
+月会员及以上可以使用带有 `free` 标签的 Claude 账户
+
+### Claude会员
+
+月卡 69

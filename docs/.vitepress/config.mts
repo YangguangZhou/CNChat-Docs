@@ -16,7 +16,7 @@ export default defineConfig({
   head: [
     [
       'script',
-      { async: '', async: '', 'data-website-id': '12a103df-d80d-4ecb-978e-1a4a48d33c0e', src: 'https://umami.jerryz.com.cn/script.js' }
+      { async: '', 'data-website-id': '12a103df-d80d-4ecb-978e-1a4a48d33c0e', src: 'https://umami.jerryz.com.cn/script.js' }
     ],
     [
       'script',
@@ -70,6 +70,7 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       items: [
         { text: '介绍', link: '/guide/introduction' },
         { text: '使用教程', link: '/guide/guide' },
+        { text: '模型介绍及使用限制', link: '/guide/models' },
         { text: '保存会话', link: '/guide/save' },
         { text: '技术原理', link: '/guide/principle' },
         { text: '下载应用', link: '/guide/download' },
