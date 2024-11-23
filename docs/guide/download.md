@@ -10,3 +10,5 @@ pageClass: bancopy
 ## [Mac版](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/CNChat-macos.dmg)
 
 ## [Android版](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/CNChat-android.apk)
+
+## 遇到问题请使用[备用地址](https://cloud.jerryz.com.cn/CNChat)
