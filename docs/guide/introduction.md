@@ -4,7 +4,7 @@ pageClass: bancopy
 # 介绍
 
 ::: info ℹ️更新：
-CNChat 现已支持 Claude 共享镜像站功能，功能和 Claude 官网相同。
+CNChat 现在已经有数十个 ChatGPT Pro 账号，欢迎使用。
 
 CNChat 现已支持 canvas 和高级语音对话，欢迎使用。
 
@@ -17,9 +17,9 @@ CNChat 现已支持 canvas 和高级语音对话，欢迎使用。
 
 CNChat的初衷是降低ChatGPT和Claude官网的使用门槛，CNChat支持的功能，包括但不限于如下：
 
-1. 使用体验与官网完全一致，可在第一时间体验到官网所有新功能。支持最新的 GPT-4o、GPT-4o-mini、Claude-3-5-Sonnet、o1-preview 等模型。
+1. 使用体验与官网完全一致，可在第一时间体验到官网所有新功能。支持最新的 GPT-4o、GPT-4o-mini、Claude-3-5-Sonnet、o1 等模型以及 o1 pro mode。
 2. 无需科学上网。
-3. 内置多个 OpenAI Plus 和 Claude Pro账号，不用担心次数不够。
+3. 内置多个 ChatGPT Plus、ChatGPT Pro 和 Claude Pro账号，不用担心次数不够。
 4. 支持所有GPTs功能，DALL·E-3模型等。
 5. 支持Artifact插件功能。
 6. 支持多模态模型，可以上传PDF、图片进行分析，也可以语音聊天。
