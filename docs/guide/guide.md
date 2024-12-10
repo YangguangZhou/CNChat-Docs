@@ -24,8 +24,8 @@ pageClass: bancopy
 ## 换车
 1. 上车（选择账号）
 - 由于CNChat本质上是使用后台内置的<span style="color: #da9c06;">Plus账号</span>、<span style="color: #355adb;">Team账号</span>，在次数用完时就需要切换到其他账号使用。
-    1. <span style="color: #da9c06;">Plus账号</span>4.0的限制是每3小时40次（官网的限制）
-    2. <span style="color: #355adb;">Team账号</span>4.0的限制是每3小时100次（官网的限制）
+    1. <span style="color: #da9c06;">Plus账号</span>4.0、4o的限制是每3小时50次（官网的限制）
+    2. <span style="color: #355adb;">Team账号</span>4.0、4o的限制是每3小时100次（官网的限制）
 - 在这里可以看到当前的账号列表、编号、账号类型丨状态
 - 账号类型有两种：<span style="color: #da9c06;">Plus</span>和<span style="color: #ae69ff;">Mini</span>，前者是Plus账号，可以使用所有模型，后者则是普通账号，只能使用GPT 4o和GPT 4o mini。
     1. 状态为<span style="background-color: rgba(183, 237, 177, 0.8);">空闲丨推荐</span>，代表该账号当前次数充足，可放心使用。
