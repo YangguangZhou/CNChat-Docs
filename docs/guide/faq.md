@@ -41,4 +41,8 @@ A8：因为您当前所处的Plus账号没次数，需要切换账号使用，�
 
 由于官网问题，部分浏览器使用时会出现拼图验证码影响使用体验，例如360浏览器、edge浏览器等。解决办法是使用[谷歌浏览器](https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/%E5%85%B6%E5%AE%83%E6%96%87%E4%BB%B6/chrome.exe)或[火狐浏览器](https://cloud.jerryz.com.cn/d/OneDrive/OnlineDrive/%E5%85%B6%E5%AE%83%E6%96%87%E4%BB%B6/firefox.exe)，这两个浏览器大部分情况下都不会出现验证码。
 
+> Q10：为什么我都开通会员付费了，还是提示“请开通会员后再试”
+
+A10：因为会员的到账有一定的延迟，请您稍等片刻再刷新页面，就可以正常使用了。
+
 更多使用上的问题请[联系我们](https://cn.jerryz.com.cn/guide/contact)，我们会尽快解决您的问题。
