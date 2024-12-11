@@ -2,8 +2,8 @@
 import { ref, onMounted } from 'vue';
 
 // 活动时间配置
-const targetTime = new Date('2025-01-01T00:00:00+08:00').getTime();
-const endTime = new Date('2025-01-02T00:00:00+08:00').getTime();
+const targetTime = new Date('2024-12-12T00:00:00+08:00').getTime();
+const endTime = new Date('2024-12-13T00:00:00+08:00').getTime();
 
 // 无活动
 // const targetTime = null;
@@ -91,4 +91,11 @@ onMounted(() => {
   <span style="font-weight: bold; font-size: 18px;">{{ countdown }}</span>
 </div>
 
-<!-- ## 活动内容 -->
+ ## 活动内容
+
+购买月会员，再送10天会员
+购买季会员，再送20天会员
+购买年会员，再送30天会员
+Claude 月会员同享赠送10天
+
+会员支持叠加，请注意活动时间，提前充值不做补偿
