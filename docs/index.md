@@ -17,8 +17,8 @@ hero:
       text: 开始使用
       link: https://cn.ai0.cn/
     - theme: alt
-      text: 下载应用
-      link: /guide/download
+      text: 状态监控
+      link: https://uptime.jerryz.com.cn/status/cnchat
     - theme: alt
       text: 进阶教程
       link: /advance/prompt
