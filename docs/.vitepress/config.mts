@@ -60,6 +60,7 @@ function nav(): DefaultTheme.NavItem[] {
     { text: '进阶教程', link: '/advance/prompt' },
     { text: '开始使用', link: 'https://cn.ai0.cn/' },
     { text: '促销活动', link: '/guide/sales' },
+    { text: '状态监控', link: 'https://uptime.jerryz.com.cn/status/cnchat' },
     { text: '联系我们', link: '/guide/contact' },
   ]
 }
