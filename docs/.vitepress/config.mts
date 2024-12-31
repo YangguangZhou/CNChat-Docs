@@ -58,7 +58,7 @@ function nav(): DefaultTheme.NavItem[] {
   return [
     { text: '使用教程', link: '/guide/introduction' },
     { text: '进阶教程', link: '/advance/prompt' },
-    { text: '开始使用', link: 'https://cn.ai0.cn/' },
+    { text: '开始使用', link: 'https://cn.ai1.bar/' },
     { text: '促销活动', link: '/guide/sales' },
     { text: '联系我们', link: '/guide/contact' },
   ]
