@@ -2,8 +2,8 @@
 import { ref, onMounted } from 'vue';
 
 // 活动时间配置
-const targetTime = new Date('2024-12-12T00:00:00+08:00').getTime();
-const endTime = new Date('2024-12-13T00:00:00+08:00').getTime();
+const targetTime = new Date('2025-01-01T12:00:00+08:00').getTime();
+const endTime = new Date('2025-01-03T00:00:00+08:00').getTime();
 
 // 无活动
 // const targetTime = null;
@@ -93,7 +93,7 @@ onMounted(() => {
 
  ## 活动内容
 
-**CNChat 双十二活动🎉**
+**CNChat 元旦活动🎉**
 
 - 购买月会员，再送10天会员
 - 购买季会员，再送20天会员
