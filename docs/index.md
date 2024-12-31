@@ -15,7 +15,7 @@ hero:
       link: /guide/introduction
     - theme: alt
       text: 开始使用
-      link: https://cn.ai0.cn/
+      link: https://cn.ai1.bar
     - theme: alt
       text: 进阶教程
       link: /advance/prompt
