@@ -13,7 +13,7 @@ CNChat 现已支持 canvas 和高级语音对话，欢迎使用。
 
 ## 简介
 
-网址：https://cn.ai0.cn/
+网址：https://cn.ai1.bar/
 
 CNChat的初衷是降低ChatGPT和Claude官网的使用门槛，CNChat支持的功能，包括但不限于如下：
 
