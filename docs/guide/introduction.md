@@ -6,7 +6,7 @@ pageClass: bancopy
 ::: info ℹ️更新：
 CNChat 现在已经有数十个 ChatGPT Pro 账号，欢迎使用。
 
-CNChat 现已支持 canvas 和高级语音对话，欢迎使用。
+CNChat 现已通过技术手段解决了降智问题，目前所有账号的所有模型都是满血的状态。
 
 如果您有任何问题，请[联系我们](https://cn.jerryz.com.cn/guide/contact)，我们会尽快解决您的问题。
 :::
