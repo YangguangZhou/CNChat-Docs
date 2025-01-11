@@ -51,4 +51,4 @@ CNChat的初衷是降低ChatGPT和Claude官网的使用门槛，CNChat支持的�
 
 ### Claude会员
 
-月卡 69
+月卡 69.9
