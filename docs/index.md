@@ -36,5 +36,5 @@ features:
 ---
 
 ::: warning ⚠️注意：
-我们的使用地址已经更换为 https://cn.ai1.bar/，请您尽快从原地址（cn.ai0.cn）切换，以防无法使用。
+我们的使用地址已经更换为 https://cn.ai1.bar/ ，请您尽快从原地址（cn.ai0.cn）切换，以防无法使用。
 :::
