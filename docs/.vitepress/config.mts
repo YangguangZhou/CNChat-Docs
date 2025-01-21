@@ -94,7 +94,8 @@ function sidebarGuide(): DefaultTheme.SidebarItem[] {
       items: [
         { text: '介绍', link: '/guide/introduction' },
         { text: '使用教程', link: '/guide/guide' },
-        { text: '模型介绍及使用限制', link: '/guide/models' },
+        { text: '模型介绍', link: '/guide/models' },
+        { text: '定价', link: '/guide/pricing' },
         { text: '保存会话', link: '/guide/save' },
         { text: '技术原理', link: '/guide/principle' },
         { text: '下载应用', link: '/guide/download' },

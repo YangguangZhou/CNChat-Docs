@@ -31,24 +31,4 @@ CNChat的初衷是降低ChatGPT和Claude官网的使用门槛，CNChat支持的�
 
 ![演示](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/1.png)
 
-## 定价
-
-🤖会员价格：
-
-### GPT会员
-
-日卡 3
-
-周卡 29.9
-
-月卡 49.9
-
-季卡 129.9
-
-年卡 399.9
-
-月会员及以上可以使用带有 `free` 标签的 Claude 账户
-
-### Claude会员
-
-月卡 69.9
+## [定价](https://cn.jerryz.com.cn/guide/pricing)
