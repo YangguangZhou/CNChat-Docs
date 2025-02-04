@@ -2,8 +2,8 @@
 import { ref, onMounted } from 'vue';
 
 // 活动时间配置
-const targetTime = new Date('2025-01-01T12:00:00+08:00').getTime();
-const endTime = new Date('2025-01-03T00:00:00+08:00').getTime();
+const targetTime = new Date('2025-02-05T12:00:00+08:00').getTime();
+const endTime = new Date('2025-02-07T00:00:00+08:00').getTime();
 
 // 无活动
 // const targetTime = null;
@@ -93,11 +93,12 @@ onMounted(() => {
 
  ## 活动内容
 
-**CNChat 元旦活动🎉**
+**CNChat 复工活动🎉**
 
-- 购买月会员，再送10天会员
-- 购买季会员，再送20天会员
-- 购买年会员，再送30天会员
-- Claude 月会员同享赠送10天
+- 购买月会员，再送10天会员！
+- 购买季会员，再送20天会员！
+- 购买年会员，再送30天会员！
 
-注：会员支持叠加，请注意活动时间，提前充值不做补偿
+活动包含**所有会员套餐**！
+
+注：会员支持叠加，请注意活动时间。活动期间购买会员，系统自动赠送。
