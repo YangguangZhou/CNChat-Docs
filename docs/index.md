@@ -26,7 +26,7 @@ features:
     details: 从2023年3月份开始运营，比大部分的网站运营时间还要久，还有api备用站点，可以做到官网不倒，CNChat不倒。
   - icon: 🤖
     title: 精准
-    details: CNChat 支持 o3-mini、GPT-4o、GPT-4、Claude-3-Opus、Claude-3-5-Sonnet 等所有OpenAI和Anthropic官网最新模型。支持包括上传 PDF、图片进行分析、联网对话、语音聊天、深度研究等官网所有功能。无需担心封号风险。
+    details: CNChat 支持 o3-mini、GPT-4o、GPT-4.5、Claude-3-7-Sonnet 等所有OpenAI和Anthropic官网最新模型。以及 DeepSeek V3/R1、Grok 3 等部分领先大模型。支持包括上传 PDF、图片进行分析、联网对话、语音聊天、深度研究等官网所有功能。无需担心封号风险。
   - icon: ✨
     title: 简洁
     details: 用户界面和使用体验与官网完全一致，可在第一时间体验到官网所有新功能。相比于其他的网站，CNChat支持的功能更全面，使用体验更好。
