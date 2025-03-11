@@ -105,5 +105,7 @@ onMounted(() => {
 
 ### 💰 参与方式
 1️⃣ 邀请好友访问 [cn.ai1.bar](https://cn.ai1.bar) 并开通会员。
+
 2️⃣ 好友成功付款后， [联系我](https://cn.jerryz.com.cn/guide/contact) 并提供注册邮箱进行确认。
+
 3️⃣ 确认成功后，你和好友都将获得付款金额 10% 的返利！
