@@ -2,8 +2,8 @@
 import { ref, onMounted } from 'vue';
 
 // 活动时间配置
-const targetTime = new Date('2025-02-05T00:00:00+08:00').getTime();
-const endTime = new Date('2025-02-07T00:00:00+08:00').getTime();
+const targetTime = new Date('2025-03-011T00:00:00+08:00').getTime();
+const endTime = new Date('2025-04-01T00:00:00+08:00').getTime();
 
 // 无活动
 // const targetTime = null;
@@ -93,12 +93,17 @@ onMounted(() => {
 
  ## 活动内容
 
-**CNChat 复工活动🎉**
+**CNChat 推广活动 🎉**  
+推荐好友，赚取返利，畅享 AI 体验！  
 
-- 购买月会员，再送10天会员！
-- 购买季会员，再送20天会员！
-- 购买年会员，再送30天会员！
+### 📢 活动规则
+ - 推荐好友使用 CNChat（[cn.ai1.bar](https://cn.ai1.bar)）
+ - 好友成功开通会员，你和好友都可**各获得付款金额 10% 的返利！**
 
-活动包含**所有会员套餐**！
+### ⏳ 活动时间
+即日起 **至 2025 年 4 月 1 日 00:00（以好友付款时间为准）**
 
-注：会员支持叠加，请注意活动时间。活动期间购买会员，系统自动赠送。
+### 💰 参与方式
+1️⃣ 邀请好友访问 [cn.ai1.bar](https://cn.ai1.bar) 并开通会员。
+2️⃣ 好友成功付款后， [联系我](https://cn.jerryz.com.cn/guide/contact) 并提供注册邮箱进行确认。
+3️⃣ 确认成功后，你和好友都将获得付款金额 10% 的返利！
