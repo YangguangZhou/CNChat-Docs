@@ -3,11 +3,10 @@ import { ref, onMounted } from 'vue';
 
 // 活动时间配置
 const targetTime = new Date('2025-04-21T00:00:00+08:00').getTime();
-//const endTime = new Date('2025-04-03T00:00:00+08:00').getTime();
+// const endTime = new Date('2025-04-03T00:00:00+08:00').getTime();
 
-// 无活动
-// const targetTime = null;
-// const endTime = null;
+//const targetTime = null;
+const endTime = null;
 
 // 格式化时间显示
 const formatDate = (timestamp) => {
@@ -22,7 +21,7 @@ const formatDate = (timestamp) => {
 };
 
 const formattedTargetTime = ref(formatDate(targetTime));
-const formattedEndTime = ref(formatDate(endTime));
+const formattedEndTime = ref(endTime ? formatDate(endTime) : '待定');
 
 // 活动状态和倒计时展示
 const activityStatus = ref('');
@@ -48,20 +47,24 @@ const startCountdown = () => {
       const hours = Math.floor((timeDiff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
       const minutes = Math.floor((timeDiff % (1000 * 60 * 60)) / (1000 * 60));
       const seconds = Math.floor((timeDiff % (1000 * 60)) / 1000);
-      
+
       activityStatus.value = '距离活动开始还有：';
       countdown.value = `${days} 天 ${hours} 小时 ${minutes} 分钟 ${seconds} 秒`;
       statusColor.value = '#ff9900';
-    } else if (now >= targetTime && now <= endTime) {
+    } else if (now >= targetTime && endTime && now <= endTime) {
       const timeDiff = endTime - now;
       const days = Math.floor(timeDiff / (1000 * 60 * 60 * 24));
       const hours = Math.floor((timeDiff % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
       const minutes = Math.floor((timeDiff % (1000 * 60 * 60)) / (1000 * 60));
       const seconds = Math.floor((timeDiff % (1000 * 60)) / 1000);
-      
+
       activityStatus.value = '距离活动结束还有：';
       countdown.value = `${days} 天 ${hours} 小时 ${minutes} 分钟 ${seconds} 秒`;
       statusColor.value = '#ff4d4f';
+    } else if (now > targetTime && !endTime) {
+      activityStatus.value = '活动进行中，结束时间待定';
+      countdown.value = '';
+      statusColor.value = '#4caf50'; // 活动进行中的颜色
     } else {
       activityStatus.value = '活动已结束';
       countdown.value = '';
