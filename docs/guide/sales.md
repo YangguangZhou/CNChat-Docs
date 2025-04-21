@@ -96,6 +96,6 @@ onMounted(() => {
 **CNChat促销活动🎉**
 
 即日起，下单满200元即可免费获赠ChatGPT官网独享Plus账号（有效期1个月，无质保）。
-完成下单后，请凭付款截图[联系我](https://cn.jerryz.com.cn)领取账号。
+完成下单后，请凭付款截图[联系我](https://cn.jerryz.com.cn/guide/contact)领取账号。
 
 活动自2025年4月21日开始，结束时间未定，请抓紧参与！
