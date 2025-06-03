@@ -2,10 +2,10 @@
 import { ref, onMounted } from 'vue';
 
 // 活动时间配置
-const targetTime = new Date('2025-04-21T00:00:00+08:00').getTime();
-// const endTime = new Date('2025-04-03T00:00:00+08:00').getTime();
+const targetTime = new Date('2025-06-03T00:00:00+08:00').getTime();
+// const endTime = new Date('2025-06-06T00:00:00+08:00').getTime();
 
-//const targetTime = null;
+const targetTime = null;
 const endTime = null;
 
 // 格式化时间显示
@@ -96,9 +96,11 @@ onMounted(() => {
 
  ## 活动内容
 
-**CNChat促销活动🎉**
+**CNChat端午活动🎉**
 
-即日起，下单满200元即可免费获赠ChatGPT官网独享Plus账号（有效期1个月，无质保）。
-完成下单后，请凭付款截图[联系我](https://cn.jerryz.com.cn/guide/contact)领取账号。
+购买月会员，再送10天会员！
+购买季会员，再送20天会员！
+购买年会员，再送30天会员！
+活动时间2025年6月3日00:00至2025年6月6日00:00
 
-活动自2025年4月21日开始，结束时间未定，请抓紧参与！
+注：活动期间购买会员，系统自动赠送
