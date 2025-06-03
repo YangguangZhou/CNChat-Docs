@@ -22,16 +22,24 @@ pageClass: bancopy
 
 
 ## 换车
+<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
+
+## 换车
+
 1. 上车（选择账号）
-- 由于CNChat本质上是使用后台内置的<span style="color: #da9c06;">Plus账号</span>、<span style="color: #355adb;">Team账号</span>，在次数用完时就需要切换到其他账号使用。
-    1. <span style="color: #da9c06;">Plus账号</span>4.0、4o的限制是每3小时50次（官网的限制）
-    2. <span style="color: #355adb;">Team账号</span>4.0、4o的限制是每3小时100次（官网的限制）
+
+- 由于ChatGPT本质上是使用后台内置的<span style="color: #da9c06;">Plus账号</span>、<span style="color: #355adb;">Team账号</span>、<span style="color: #8b5cf6;">Pro账号</span>，在次数用完时就需要切换到其他账号使用。
+
+1. <span style="color: #da9c06;">Plus账号</span>4o的限制是每3小时50次（官网的限制）
+2. <span style="color: #355adb;">Team账号</span>4o的限制是每3小时100次（官网的限制）
+3. <span style="color: #8b5cf6;">Pro账号</span>提供无限制使用GPT-4o、o3和o4-mini等模型，具备更强的推理能力和更快响应速度
 - 在这里可以看到当前的账号列表、编号、账号类型丨状态
-- 账号类型有两种：<span style="color: #da9c06;">Plus</span>和<span style="color: #ae69ff;">Mini</span>，前者是Plus账号，可以使用所有模型，后者则是普通账号，只能使用GPT 4o和GPT 4o mini。
-    1. 状态为<span style="background-color: rgba(183, 237, 177, 0.8);">空闲丨推荐</span>，代表该账号当前次数充足，可放心使用。
-    2. 状态为<span style="background-color: rgba(254, 212, 164, 0.8);">繁忙丨可用</span>，代表该账号该时段已消耗了部分次数。
-    3. 状态为<span style="background-color: rgba(251, 191, 188, 0.8);">PLUS停运丨将于xx秒恢复</span>，代表该账号该时段已无可用Plus次数，并会告知在多久后能用。
-    4. 状态为<span style="background-color: rgba(187, 191, 196, 0.8);">翻车丨不可用</span>，代表该账号已下线。
+- 账号类型有三种：<span style="color: #da9c06;">Plus</span>、<span style="color: #355adb;">Team</span>、<span style="color: #8b5cf6;">Pro</span>和<span style="color: #007ec6;">Free</span>，<span style="color: #da9c06;">Plus</span>和<span style="color: #355adb;">Team</span>账号可以使用所有模型，<span style="color: #8b5cf6;">Pro</span>账号提供最高级的无限制访问，<span style="color: #007ec6;">Free</span>账号则是普通账号，只能使用GPT 4o和o4 mini。
+
+1. 状态为<span style="background-color: rgba(183, 237, 177, 0.8);">空闲丨推荐</span>，代表该账号当前次数充足，可放心使用。
+2. 状态为<span style="background-color: rgba(254, 212, 164, 0.8);">繁忙丨可用</span>，代表该账号该时段已消耗了部分次数。
+3. 状态为<span style="background-color: rgba(251, 191, 188, 0.8);">PLUS停运丨将于xx秒恢复</span>，代表该账号该时段已无可用Plus次数，并会告知在多久后能用。
+4. 状态为<span style="background-color: rgba(187, 191, 196, 0.8);">翻车丨不可用</span>，代表该账号已下线。
 
 2. 换车
 - 当您在使用过程中，遇见当前账号使用次数耗尽时（如下图）：
@@ -74,16 +82,24 @@ CNChat做了些技术上的处理，把您所有的对话都保存到一起了�
 
 ![联网结果](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/24.png)
 
-## DALL·E-3画图
+## Canvas画布功能
 
-DALL·E-3是OpenAI开发的AI图像生成模型,可根据文字描述生成高质量图像。它支持中英文提示词,能创建照片级写实图像、艺术插画等多种风格作品。
+Canvas采用双屏布局，允许用户在独立窗口中与ChatGPT共同处理任务，超越了传统聊天框的简单对话模式。能够理解更广泛的上下文，支持在线编辑文档、代码审查、内容改写等功能。
 
-1. 方法一：输入`/`可快速调用DALL·E-3画图功能。​
+![Canvas](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/33.png)
+
+## Deep Research 深度研究功能
+
+通过自动浏览网络，生成包含引用的详细报告。用户输入查询后，深度研究会在5到30分钟内分析和综合来自网络的文本、图像和PDF等多种信息来源，最终生成一份全面的报告。
+
+![Deep Research](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/34.png)
+
+## 画图功能
+
+OpenAI于2025年3月为其多模态模型GPT-4o上线了原生图像生成功能，该功能直接嵌入GPT-4o的架构中，与文本、音频等能力协同工作。这项技术采用自回归模型，能精准地在图像中渲染文本内容，并严格遵循复杂的指令提示，理解对话上下文，甚至对上传的图像进行二次创作或风格转换。GPT-4o的图像生成能力可用于生成各种风格的绘画、海报、广告、漫画和电商图片等。其主要优势在于能够处理多达10-20个不同对象的复杂指令，并能通过多轮对话进行图像内容的动态调整和迭代
+
+输入`/`可快速调用画图功能。​
 ![画图](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/25.png)
-
-2. 方法二：点击`探索GPT`，找到并点击`DALL·E`，如下图:
-![打开DALL·E](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/26.png)
-![画图示例](https://cdn.jerryz.com.cn/gh/YangguangZhou/CNChat-Docs@main/docs/public/27.png)
 
 更多高级画图功能介绍请见[进阶教程](https://cn.jerryz.com.cn/advance/dalle3)
 ​

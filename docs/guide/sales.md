@@ -3,10 +3,10 @@ import { ref, onMounted } from 'vue';
 
 // 活动时间配置
 const targetTime = new Date('2025-06-03T00:00:00+08:00').getTime();
-// const endTime = new Date('2025-06-06T00:00:00+08:00').getTime();
+const endTime = new Date('2025-06-06T00:00:00+08:00').getTime();
 
-const targetTime = null;
-const endTime = null;
+// const targetTime = null;
+// const endTime = null;
 
 // 格式化时间显示
 const formatDate = (timestamp) => {
