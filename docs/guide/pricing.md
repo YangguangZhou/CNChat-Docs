@@ -33,7 +33,6 @@
 | Claude     | Claude(不区分模型)      | 镜像     | 5次/天 | 5次/天 | 45次/3小时        | 45次/3小时       | 45次/3小时      |
 | ChatGPT    | o3-all                  | 逆向API  | 50次/天         | 100次/天        | -                 | 70次/天          | 120次/天       |
 | ChatGPT    | o4-mini-high-all        | 逆向API  | 50次/天         | 100次/天        | -                 | 70次/天          | 120次/天       |
-| ChatGPT    | o1-pro-满血版           | 逆向API  | 3次/天 | 50次/天         | -                 | 5次/天  | 60次/天        |
 | ChatGPT    | deepresearch            | 逆向API  | 5次/天          | 10次/天         | -                 | 8次/天           | 13次/天        |
 | ChatGPT    | deepresearch-mini       | 逆向API  | 20次/天         | 40次/天         | -                 | 30次/天          | 50次/天        |
 | ChatGPT    | 4.1                     | 官方API  | 50次/天         | 100次/天        | 10次/天           | 70次/天          | 120次/天       |
