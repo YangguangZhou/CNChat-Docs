@@ -2,8 +2,8 @@
 import { ref, onMounted } from 'vue';
 
 // 活动时间配置
-const targetTime = new Date('2025-06-03T00:00:00+08:00').getTime();
-const endTime = new Date('2025-06-06T00:00:00+08:00').getTime();
+const targetTime = new Date('2025-10-09T00:00:00+08:00').getTime();
+const endTime = new Date('2025-10-12T00:00:00+08:00').getTime();
 
 // const targetTime = null;
 // const endTime = null;
@@ -96,11 +96,14 @@ onMounted(() => {
 
  ## 活动内容
 
-**CNChat端午活动🎉**
+**CNChat国庆开学活动🎉**
 
 购买月会员，再送10天会员！
 购买季会员，再送20天会员！
 购买年会员，再送30天会员！
-活动时间2025年6月3日00:00至2025年6月6日00:00
+活动时间2025年10月9日00:00至2025年10月12日00:00
 
 注：活动期间购买会员，系统自动赠送
+
+[会员权益和定价](https://cn.jerryz.com.cn/guide/pricing)
+[立即购买使用](https://cn.ai1.bar/)
