@@ -2,8 +2,8 @@
 import { ref, onMounted } from 'vue';
 
 // 活动时间配置
-const targetTime = new Date('2025-10-09T00:00:00+08:00').getTime();
-const endTime = new Date('2025-10-12T00:00:00+08:00').getTime();
+const targetTime = new Date('2025-12-10T12:00:00+08:00').getTime();
+const endTime = new Date('2025-12-13T00:00:00+08:00').getTime();
 
 // const targetTime = null;
 // const endTime = null;
@@ -96,12 +96,12 @@ onMounted(() => {
 
  ## 活动内容
 
-**CNChat国庆开学活动🎉**
+**CNChat双十二活动🎉**
 
 购买月会员，再送10天会员！
 购买季会员，再送20天会员！
 购买年会员，再送30天会员！
-活动时间2025年10月9日00:00至2025年10月12日00:00
+活动时间2025年12月10日12:00至2025年12月13日00:00
 
 注：活动期间购买会员，系统自动赠送
 
